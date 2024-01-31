@@ -64,11 +64,7 @@ h4 {
     text-align: center;
 }
 
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
+
 
 .columna-25 {
     width: 25%;
